@@ -88,12 +88,13 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 | [Commentaire](1rst%20Edition%20-%202022/) | Web | 50 | 10/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
 | [Perfect Lab](https://github.com/tialocRT/Hacky-Nov-Write-Up-2022/tree/main/Perfect_Lab) | Web | 800 | 03/11 | [Tialoc](https://github.com/tialocRT) |
 | [Silverlake Part 1](https://github.com/MSARTORIBOUTY/silverlake/tree/main/partie%204) | Web | 150 | 06/11 | [TheSleepyOtter](https://www.linkedin.com/in/marie-laure-sartori-bouty/) & [Linaa](https://www.linkedin.com/in/lina-alem-4963601b6/)|
-| Administration | Web | 150 | 02/11 | |
+| [Administration](https://github.com/HackyNov/1st-edition-2022/Write_Up_Administration.pdf) | Web | 150 | 02/11 | Balatre Grégory & Mounier Matthieu |
 | Time To Plane | Web | 450 | 02/11 | [LOLOLEKIK](https://lololekik.com/)|
 | RECOAPP | Web | 700 | 02/11 | [LOLOLEKIK](https://lololekik.com/)|
 | Boite à cookies | Web | 200 | 06/11 | |
-| Mot'Aix - Part 1 | Web | 250 | 07/11 | |
-| Mot'Aix - Part 2 | Web | 300 | 06/11 | |
+| [Mot'Aix - Part 1](https://github.com/v4ss/Hacky_Nov_Write_Up_2022) | Web | 250 | 07/11 | [v4ss](https://github.com/v4ss) |
+| [Mot'Aix - Part 2](https://github.com/v4ss/Hacky_Nov_Write_Up_2022) | Web | 300 | 06/11 | [v4ss](https://github.com/v4ss) |
 | La Coquille | Web | 500 | 03/11 | |
+| [Murder](https://github.com/V3luxx/Hacky-nov-Writeup-2022) | Web | 200 | 09/11 | |
 | [Discord](https://github.com/Kur0n33k0/HackyNov_CTFD/tree/main/1rst%20Edition%20-%202022/HackyBot) | Welcome ! | 50 | 074/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
 | [Twitter](https://twitter.com/HackyNov) | Welcome ! | 20 | 10/11 | [Hacky'Nov](https://hackynov.fr/)|
