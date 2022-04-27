@@ -64,7 +64,7 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 | [Stalker](https://github.com/HackyNov/1st-edition-2022/blob/main/WriteUP_Stalker.pdf) | Miscellaneous | 800 | 02/11 | M4c130d |
 | [Silverlake Part 3](https://github.com/MSARTORIBOUTY/silverlake/tree/main/partie%203) | OSINT | 200 | 01/11 | [TheSleepyOtter](https://www.linkedin.com/in/marie-laure-sartori-bouty/) & [Linaa](https://www.linkedin.com/in/lina-alem-4963601b6/)|
 | [Silverlake Part 5](https://github.com/MSARTORIBOUTY/silverlake/tree/main/partie%205) | Programming | 100 | 01/11 | [TheSleepyOtter](https://www.linkedin.com/in/marie-laure-sartori-bouty/) & [Linaa](https://www.linkedin.com/in/lina-alem-4963601b6/)|
-| [Unexpected Services](https://github.com/Cursecure/CTF_HackyNov/tree/main/1rst%20Edition%20-%202022/Unexpected%20Services) | Programming | 800 | 02/11 | [Cursecure](https://github.com/Cursecure)|
+| [Unexpected Services](https://github.com/Cursecure/CTF_HackyNov/tree/main/1rst%20Edition%20-%202022/Unexpected%20Services) | Programming | 800 | 02/11 | [Cursecure](https://www.linkedin.com/in/ludovic-mullot/)|
 | PoPTheFlag | Programming | 600 | 04/11 | |
 | FlagOverflow | Programming | 600 | 04/11 | |
 | HackyPwn | Programming | 800 | 04/11 | |
@@ -72,7 +72,7 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 | Hacky'Piece #2 | Programming | 600 | 05/11 | [LOLOLEKIK](https://lololekik.com/)|
 | [Invest'PCAP](https://github.com/tialocRT/Hacky-Nov-Write-Up-2022/tree/main/Invest_PCAP) | Network | 600 | 04/11 | [Tialoc](https://github.com/tialocRT)|
 | [Silverlake Part 4](https://github.com/MSARTORIBOUTY/silverlake/tree/main/partie%204) | Network | 100 | 01/11 | [TheSleepyOtter](https://www.linkedin.com/in/marie-laure-sartori-bouty/) & [Linaa](https://www.linkedin.com/in/lina-alem-4963601b6/)|
-| [Baby_Cisconnect](https://github.com/Cursecure/CTF_HackyNov/tree/main/1rst%20Edition%20-%202022/Baby_Cisconnect) | Network | 100 | 10/11 | [Cursecure](https://github.com/Cursecure) |
+| [Baby_Cisconnect](https://github.com/Cursecure/CTF_HackyNov/tree/main/1rst%20Edition%20-%202022/Baby_Cisconnect) | Network | 100 | 10/11 | [Cursecure](https://www.linkedin.com/in/ludovic-mullot/) |
 | BrokenRansom | Reverse | 300 | 07/11 | |
 | [Reveasy](https://github.com/VodyHD/Hacky-Nov-Write-Up-2022/tree/main/Reveasy/) | Reverse | 50 | 10/11 |[VodyHD](https://www.linkedin.com/in/thomas-quernec/)|
 | Coffre fort | Reverse | 300 | 06/11 | |
