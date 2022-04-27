@@ -95,6 +95,6 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 | [Mot'Aix - Part 1](https://github.com/v4ss/Hacky_Nov_Write_Up_2022) | Web | 250 | 07/11 | [v4ss](https://github.com/v4ss) |
 | [Mot'Aix - Part 2](https://github.com/v4ss/Hacky_Nov_Write_Up_2022) | Web | 300 | 06/11 | [v4ss](https://github.com/v4ss) |
 | La Coquille | Web | 500 | 03/11 | |
-| [Murder](https://github.com/V3luxx/Hacky-nov-Writeup-2022) | Web | 200 | 09/11 | |
-| [Discord](https://github.com/Kur0n33k0/HackyNov_CTFD/tree/main/1rst%20Edition%20-%202022/HackyBot) | Welcome ! | 50 | 074/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
+| [Murder](https://github.com/V3luxx/Hacky-nov-Writeup-2022) | Web | 200 | 09/11 | [V3luxx](https://github.com/V3luxx) |
+| [Discord](https://github.com/Kur0n33k0/HackyNov_CTFD/tree/main/1rst%20Edition%20-%202022/HackyBot) | Welcome ! | 50 | 07/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
 | [Twitter](https://twitter.com/HackyNov) | Welcome ! | 20 | 10/11 | [Hacky'Nov](https://hackynov.fr/)|
